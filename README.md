@@ -35,7 +35,7 @@ npm install -g @angular/cli
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/mfayman/mf-recipe-platform
-    cd angular-recipe-platform
+    cd mf-recipe-platform
     ```
 
 2.  **Install dependencies:**
